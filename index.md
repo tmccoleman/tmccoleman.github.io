@@ -9,16 +9,6 @@
 </div>
 
 <div style="padding:12px; border:1px solid #ccc; margin-bottom:12px;">
-<strong>Developer Options</strong><br>
-<a href="intent:#Intent;action=android.settings.APPLICATION_DEVELOPMENT_SETTINGS;end">Open Developer Options</a>
-</div>
-
-<div style="padding:12px; border:1px solid #ccc; margin-bottom:12px;">
-<strong>IMEI / IMEI2</strong><br>
+<strong>IMEI / SN</strong><br>
 <a href="tel:*#06#">Dialer Code: Show IMEI</a>
-</div>
-
-<div style="padding:12px; border:1px solid #ccc; margin-bottom:12px;">
-<strong>Status Page</strong><br>
-<a href="intent:#Intent;action=android.settings.STATUS_SETTINGS;end">Open Status Page</a>
 </div>
