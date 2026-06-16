@@ -1,5 +1,1 @@
-{% raw %}
-<a href="intent://android.settings.SETTINGS#Intent;scheme=android;end">
-    Open Android Settings
-</a>
-{% endraw %}
+<a href="intent:#Intent;action=android.settings.SETTINGS;end">Open Android Settings</a>
