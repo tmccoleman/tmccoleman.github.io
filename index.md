@@ -12,3 +12,10 @@
 <strong>IMEI / SN</strong><br>
 <a href="tel:*#06#">Dialer Code: Show IMEI</a>
 </div>
+
+<div style="padding:12px; border:1px solid #ccc; margin-bottom:12px;">
+<strong>IMEI / SN</strong><br>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSesfHHo8ajL7rdyGGrzzFwJuoumyKgTTgFExCGndm__7QS3dQ/viewform?usp=dialog">Product Waiting List</a>
+</div>
+
+
