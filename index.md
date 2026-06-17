@@ -14,8 +14,14 @@
 </div>
 
 <div style="padding:12px; border:1px solid #ccc; margin-bottom:12px;">
-<strong>Product Waiting List</strong><br>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSesfHHo8ajL7rdyGGrzzFwJuoumyKgTTgFExCGndm__7QS3dQ/viewform?usp=dialog">Product Waiting List</a>
+<strong>Product Waiting Form</strong><br>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSesfHHo8ajL7rdyGGrzzFwJuoumyKgTTgFExCGndm__7QS3dQ/viewform?usp=dialog">Product Waiting Form</a>
+</div>
+
+
+<div style="padding:12px; border:1px solid #ccc; margin-bottom:12px;">
+<strong>Product Waiting Database</strong><br>
+<a href="https://docs.google.com/spreadsheets/d/14lHZUHSMnFyvJ28VpTc-PCYRFZDUH7wOnX6th2bOXQk/edit?usp=sharing">Product Waiting Database</a>
 </div>
 
 
