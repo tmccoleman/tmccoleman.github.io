@@ -9,11 +9,6 @@
 </div>
 
 <div style="padding:12px; border:1px solid #ccc; margin-bottom:12px;">
-<strong>Q DEF APPS Phone</strong><br>
-<a href="intent:#Intent;action=Settings.ACTION_MANAGE_DEFAULT_APPS_SETTINGS;end">OPENDSETT</a>
-</div>
-
-<div style="padding:12px; border:1px solid #ccc; margin-bottom:12px;">
 <strong>IMEI / SN</strong><br>
 <a href="tel:*#06#">Dialer Code: Show IMEI</a>
 </div>
